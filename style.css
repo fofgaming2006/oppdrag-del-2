@@ -1,0 +1,138 @@
+.login-body {
+    background-color: #c9d6ff;
+    background: linear-gradient(to right, #e2e2e2, #c9d6ff);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 90vh;
+}
+
+.signup-body {
+    background-color: #c9d6ff;
+    background: linear-gradient(to right, #e2e2e2, #c9d6ff);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 90vh;
+}
+
+.login-input {
+    font-family: Inter;
+    outline: 0;
+    background-color: #eee;
+    border: none;
+    margin: 6px;
+    padding: 10px 15px;
+    font-size: 13px;
+    border-radius: 8px;
+    width: 75%;
+    outline: none;
+}
+
+.signup-input {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    outline: 0;
+    background-color: #eee;
+    border: none;
+    margin: 6px;
+    padding: 10px 15px;
+    font-size: 13px;
+    border-radius: 8px;
+    width: 75%;
+    outline: none;
+}
+
+.klage-button {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    outline: 0;
+    background-color: #eee;
+    border: none;
+    margin: 6px;
+    padding: 10px 15px;
+    font-size: 13px;
+    border-radius: 8px;
+    width: 20%;
+    outline: none;
+}
+
+.form_link {
+    text-decoration: none;
+}
+
+.form_link {
+    text-decoration: none;
+}
+
+.button {
+    background-color: #512da8;
+    color: #fff;
+    font-size: 12px;
+    padding: 10px 45px;
+    border: 1px solid transparent;
+    border-radius: 8px;
+    font-weight: 600;
+    letter-spacing: 0.5px;
+    text-transform: uppercase;
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+.logout-button {
+    background-color: #512da8;
+    color: #fff;
+    font-size: 13px;
+    border: 10px 45px solid transparent;
+    border-radius: 8px;
+    font-weight: 600;
+    letter-spacing: 0.5px;
+    text-transform: uppercase;
+    margin-top: 20px;
+    cursor: pointer;
+    width: 100px;
+    text-decoration: none;
+}
+
+.button.hidden {
+    background-color: transparent;
+    border-color: #fff;
+}
+
+.title_login {
+    display: flex;
+    justify-content: center;
+    font-family: Inter;
+    color: black;
+    font-weight: 750;
+    font-size: 40px;
+}
+
+.container {
+    background-color: #ffffffd6;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 0 50px;
+    height: 125%;
+}
+
+.beskrivelse-title {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.saksnummer-input {
+    width: 300px;
+    height: 30px;
+}
+
+.saksbeskrivelse-textform {
+    width: 550px;
+    height: 250px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+
+
